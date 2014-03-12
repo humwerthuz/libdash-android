@@ -1,0 +1,2 @@
+TODO LIST:
+	1) Apply frame rate according MPD manifest. Currently is fixed at 24 fps.

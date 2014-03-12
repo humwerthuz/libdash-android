@@ -15,4 +15,4 @@ Library Dependency Tree
 
 		- libyuv2rgb
 
-NOTE: libdashiface and libdash is provided in this repository.
+NOTE: only libdashiface and libdash are provided in this repository.
